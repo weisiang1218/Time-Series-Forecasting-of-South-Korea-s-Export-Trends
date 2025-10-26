@@ -17,22 +17,16 @@ The purpose of this project is to analyze and forecast export trends using stati
 ## Usage
 
 1. Clone the repository:
-
     <code>
     git clone https://github.com/weisiang1218/Time-Series-Forecasting-of-Export-Trends.git
     </code>
-<br>
 
 2. Navigate to the project directory and install required dependencies:
-
     <code>
     pip install -r requirements.txt
     </code>
-<br>
 
 3. Launch Jupyter Notebook
-
-<br>
 
 4. Open and run the main notebook to explore the analysis and forecasts.
 
@@ -61,5 +55,6 @@ Gan Wei Siang
 ---
 
 *Thank you for exploring this time-series forecasting project!*
+
 
 
